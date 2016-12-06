@@ -1,7 +1,7 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTests.CSharp", "UnityTests.CSharp.csproj", "{19FF2D48-AD62-77B8-3F6D-F082902E1710}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DA7C817D-BE0E-DBC0-21D7-C20B44A06C09}") = "UnityTests", "Assembly-CSharp.csproj", "{B202993C-03CB-D2C1-630C-701B2C7269DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{19FF2D48-AD62-77B8-3F6D-F082902E1710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{19FF2D48-AD62-77B8-3F6D-F082902E1710}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{19FF2D48-AD62-77B8-3F6D-F082902E1710}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{19FF2D48-AD62-77B8-3F6D-F082902E1710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B202993C-03CB-D2C1-630C-701B2C7269DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B202993C-03CB-D2C1-630C-701B2C7269DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B202993C-03CB-D2C1-630C-701B2C7269DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B202993C-03CB-D2C1-630C-701B2C7269DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
